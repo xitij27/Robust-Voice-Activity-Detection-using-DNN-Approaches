@@ -1,5 +1,5 @@
 ![fyp1 (1)](https://github.com/xitij27/Robust-Voice-Activity-Detection-using-DNN-Approaches/assets/79000102/230651fc-7f19-40d4-bf21-783a5d2c12ae)
- Robust Voice Activity Detection using DNN Approaches
+# Robust Voice Activity Detection using DNN Approaches
 
 This is my Final Year Project (Project ID SCSE23-0748) under the supervision of Assoc. Prof. Chng Eng Siong at Nanyang Technological University, Singapore.
 
